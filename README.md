@@ -1,2 +1,2 @@
-# Tech_Savant
+# Tech_Savants
 A Blogging Website
